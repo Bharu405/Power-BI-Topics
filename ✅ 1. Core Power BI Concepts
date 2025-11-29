@@ -1,1 +1,89 @@
+✅ Phase 1: Understand Power BI Architecture (Day 1–2)
+Goal: Know the components and how they interact.
+Topics:
+
+Power BI Desktop: For report creation and modeling.
+Power BI Service: For publishing, sharing, and collaboration.
+Power BI Gateway: For connecting on-premises data to the cloud.
+Power BI Mobile: For viewing dashboards on mobile devices.
+
+Action Plan:
+
+Watch Microsoft’s official Power BI Overview video.
+Read documentation on Power BI ecosystem.
+Create a simple report in Power BI Desktop and publish it to Power BI Service.
+
+
+✅ Phase 2: Data Sources & Connectivity (Day 3–4)
+Goal: Learn how to connect Power BI to different data sources.
+Topics:
+
+Connecting to Excel, CSV, SQL Server, Web APIs, and Azure.
+Difference between Import Mode and DirectQuery.
+Understand Live Connection for Analysis Services.
+
+Action Plan:
+
+Practice connecting Power BI to:
+
+A local Excel file.
+A SQL Server database.
+A public API (e.g., COVID-19 data).
+
+
+Explore Data Gateway setup for on-premises data.
+
+
+✅ Phase 3: Data Transformation with Power Query (Day 5–7)
+Goal: Clean and shape data before modeling.
+Topics:
+
+Power Query Editor basics.
+Common transformations:
+
+Remove duplicates, filter rows, merge queries.
+
+
+Introduction to M Language (Power Query formula language).
+
+Action Plan:
+
+Import messy data and clean it using Power Query.
+Create custom columns using M expressions.
+Learn Query Folding for performance optimization.
+
+
+✅ Phase 4: Data Modeling (Day 8–10)
+Goal: Build a strong data model for analysis.
+Topics:
+
+Relationships:
+
+One-to-many, many-to-many.
+
+
+Star vs Snowflake Schema:
+
+Why star schema is preferred.
+
+
+Fact and Dimension Tables:
+
+Role in analytical models.
+
+
+
+Action Plan:
+
+Design a Star Schema for a sample sales dataset.
+Create relationships in Power BI Desktop.
+Use Manage Relationships and Model View effectively.
+
+
+✅ Resources
+
+Microsoft Learn: Power BI Learning Path
+YouTube: Guy in a Cube (Power BI tutorials).
+Practice datasets: Kaggle or Microsoft sample datasets.
+
 
