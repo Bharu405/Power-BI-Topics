@@ -1,1 +1,98 @@
+✅ 1. Core Power BI Concepts
 
+Power BI Architecture: Components (Power BI Desktop, Service, Gateway, Mobile).
+Data Sources: Connecting to SQL Server, Excel, APIs, and cloud sources.
+Data Transformation: Power Query Editor basics (M language overview).
+Data Modeling:
+
+Relationships (one-to-many, many-to-many).
+Star vs Snowflake schema.
+Role of fact and dimension tables.
+
+
+
+
+✅ 2. DAX (Data Analysis Expressions)
+
+Basic Functions:
+
+SUM, AVERAGE, COUNTROWS, DISTINCTCOUNT.
+
+
+Filter Functions:
+
+CALCULATE, FILTER, ALL, ALLEXCEPT.
+
+
+Time Intelligence:
+
+SAMEPERIODLASTYEAR, DATEADD, TOTALYTD.
+
+
+Row Context vs Filter Context:
+
+Understand evaluation context deeply.
+
+
+Variables in DAX:
+
+Using VAR for optimization.
+
+
+
+
+✅ 3. Visualization & Reporting
+
+Best practices for visual design.
+Conditional formatting.
+Drill-through, bookmarks, and tooltips.
+Custom visuals and KPI indicators.
+
+
+✅ 4. Performance Optimization
+
+Aggregations and summarization.
+Query folding in Power Query.
+Reducing model size (data types, removing unnecessary columns).
+Using DAX Studio for performance checks.
+
+
+✅ 5. Advanced Topics
+
+Row-Level Security (RLS):
+
+Static vs Dynamic RLS.
+
+
+Deployment Pipelines:
+
+Dev → Test → Prod.
+
+
+Power BI Service Features:
+
+Workspaces, Apps, Dataflows.
+
+
+Integration:
+
+Power BI with Azure, APIs, and embedding reports.
+
+
+
+
+✅ 6. Common Interview Questions
+
+Explain difference between DirectQuery and Import mode.
+How do you handle slow reports?
+What is CALCULATE and why is it powerful?
+How do you implement dynamic RLS?
+Difference between Power BI Desktop and Service.
+
+
+✅ 7. Practical Hands-On
+
+Build a sample dashboard from scratch.
+Create calculated columns and measures.
+Implement RLS in a sample dataset.
+Optimize a large dataset for performance.
